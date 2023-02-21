@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\Auticka\Auticka\bin\Debug\net6.0-windows\Auticka.exe
+C:\Users\Lenovo\source\repos\Auticka\Auticka\bin\Debug\net6.0-windows\Auticka.deps.json
+C:\Users\Lenovo\source\repos\Auticka\Auticka\bin\Debug\net6.0-windows\Auticka.runtimeconfig.json
+C:\Users\Lenovo\source\repos\Auticka\Auticka\bin\Debug\net6.0-windows\Auticka.dll
+C:\Users\Lenovo\source\repos\Auticka\Auticka\bin\Debug\net6.0-windows\ref\Auticka.dll
+C:\Users\Lenovo\source\repos\Auticka\Auticka\bin\Debug\net6.0-windows\Auticka.pdb
+C:\Users\Lenovo\source\repos\Auticka\Auticka\obj\Debug\net6.0-windows\Auticka.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Auticka\Auticka\obj\Debug\net6.0-windows\Auticka.Form1.resources
+C:\Users\Lenovo\source\repos\Auticka\Auticka\obj\Debug\net6.0-windows\Auticka.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Auticka\Auticka\obj\Debug\net6.0-windows\Auticka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\Auticka\Auticka\obj\Debug\net6.0-windows\Auticka.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\Auticka\Auticka\obj\Debug\net6.0-windows\Auticka.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\Auticka\Auticka\obj\Debug\net6.0-windows\Auticka.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Auticka\Auticka\obj\Debug\net6.0-windows\Auticka.dll
+C:\Users\Lenovo\source\repos\Auticka\Auticka\obj\Debug\net6.0-windows\ref\Auticka.dll
+C:\Users\Lenovo\source\repos\Auticka\Auticka\obj\Debug\net6.0-windows\Auticka.pdb
+C:\Users\Lenovo\source\repos\Auticka\Auticka\obj\Debug\net6.0-windows\Auticka.genruntimeconfig.cache
